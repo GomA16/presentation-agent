@@ -1,14 +1,12 @@
 ---
 theme: seriph
-title: "Advanced Cryptography Program Week 1: Programmable Cryptography Overview"
+title: 孤独な天才を、仲間へ
 info: |
-  Week 1 — Programmable Cryptography Overview
-  担当: gohan
+  孤独な天才を、仲間へ
+  Nyx Foundation × DEPCON 2025 — 日本の研究者とEthereumを繋ぐ
 transition: slide-left
 mdc: true
 colorSchema: 'light'
-canvasWidth: 1280
-aspectRatio: 16/9
 src: ./slides/SL01.md
 ---
 
@@ -18,6 +16,10 @@ src: ./slides/SL02.md
 
 ---
 src: ./slides/SL03.md
+---
+
+---
+src: ./slides/SL04.md
 ---
 
 ---
@@ -37,89 +39,5 @@ src: ./slides/SL08.md
 ---
 
 ---
-src: ./slides/SL08b.md
----
-
----
 src: ./slides/SL09.md
----
-
----
-src: ./slides/SL10.md
----
-
----
-src: ./slides/SL12.md
----
-
----
-src: ./slides/SL13.md
----
-
----
-src: ./slides/SL14.md
----
-
----
-src: ./slides/SL15.md
----
-
----
-src: ./slides/SL16.md
----
-
----
-src: ./slides/SL17.md
----
-
----
-src: ./slides/SL18.md
----
-
----
-src: ./slides/SL19.md
----
-
----
-src: ./slides/SL20.md
----
-
----
-src: ./slides/SL21.md
----
-
----
-src: ./slides/SL22.md
----
-
----
-src: ./slides/SL23.md
----
-
----
-src: ./slides/SL25.md
----
-
----
-src: ./slides/SL26.md
----
-
----
-src: ./slides/SL27.md
----
-
----
-src: ./slides/SL28.md
----
-
----
-src: ./slides/SL29.md
----
-
----
-src: ./slides/SL31.md
----
-
----
-src: ./slides/SL32.md
 ---
